@@ -1,19 +1,77 @@
 {
   "Meta": {
-    "title": "Okyanus",
-    "description": "Okyanus"
+    "title": "Okyanus - boat trips and sea entertainment in Batumi",
+    "description": "Boat trips, parasailing and water activities in Batumi. Book directly by phone or WhatsApp."
   },
   "Nav": {
-    "home": "Home"
+    "home": "Home",
+    "about": "About us",
+    "batumi": "Batumi",
+    "ships": "Our ships",
+    "contacts": "Contacts"
   },
   "Home": {
-    "title": "Okyanus"
+    "kicker": "Batumi port",
+    "title": "Boat trips and sea entertainment",
+    "subtitle": "Plan an unforgettable adventure with us: sea walks, parasailing and water activities in Batumi.",
+    "book": "Book a trip",
+    "call": "Call",
+    "servicesTitle": "What we offer",
+    "tripsTitle": "Sea trips",
+    "tripsBody": "Walks along the Batumi coastline on the Okyanus 3 passenger boat.",
+    "parasailingTitle": "Parasailing",
+    "parasailingBody": "A parachute flight over the Black Sea with a view of the boulevard and the city.",
+    "jetskiTitle": "Jet ski",
+    "jetskiBody": "Jet skis at the port for a short, fast ride on the water.",
+    "galleryTitle": "Gallery",
+    "aboutCta": "About us"
+  },
+  "About": {
+    "title": "About us",
+    "seoDescription": "Okyanus is a sea entertainment company in Batumi. Boat trips, parasailing and water activities from the port.",
+    "lead": "Have fun with us on a boat ride and other sea activities in Batumi.",
+    "p1": "Okyanus works from the Batumi port. We take guests out to sea: walks on a passenger boat, parasailing and jet ski rides.",
+    "p2": "You contact us directly. Call, write on WhatsApp or send a message on the site, and we will help you pick a trip.",
+    "p3": "Our goal is a simple and clear way to get on the water in Batumi, without a long search for a boat or a skipper."
+  },
+  "Batumi": {
+    "title": "Batumi",
+    "seoDescription": "Batumi is the capital of Adjara, Georgia's main seaport and a place for a sea holiday.",
+    "lead": "Batumi, the capital of the Autonomous Republic of Adjara, is one of the most beautiful cities in the country.",
+    "paragraphs": [
+      "It was once an ancient Greek colony and a Roman port. The Ottomans attacked it, Georgian kings defended it. Under the Russian Empire the city grew, and today it is Georgia's main seaport and a unique place to rest.",
+      "Batumi becomes more beautiful every year. In recent years the city has been developing especially fast. It tries to keep up with the present while keeping its history. Nineteenth-century buildings were restored from archival records. Careful work produced elegant houses with balconies and railings, quiet paved streets and cast facades. Around them you feel the sea breeze and the smell of coffee and citrus.",
+      "Batumi has a well-developed tourist infrastructure, which makes it even more attractive for guests. Modern hotels such as Sheraton, Radisson and Hilton stand out from afar with their design. The Georgian government invited builders from around the world to develop the hotel industry here.",
+      "Today the centre of Batumi feels like a Western European city: streets with vines, fountains and busy shops. At night the city is brightly lit, and the seaside strip glows. The climate depends on the Black Sea: January is the coldest month, August the hottest. Most visitors come from post-Soviet countries, but in the streets you will also hear English, French and other languages.",
+      "In the many restaurants and cafes you can try traditional Georgian food. There are fashion boutiques and a plastic surgery clinic. Among the sights, the world's longest seaside boulevard stands out: it is now about 7 km long. You can rent a bicycle, ride along the boulevard, look at the beach and the monuments.",
+      "On the boulevard you will find the Ferris wheel, the Alphabet Tower, a monument to Georgian writing and culture, and other sculptures. Locals call Batumi the city of love, and there are many monuments on this theme. The best known is a man on one knee offering a red heart to a woman.",
+      "There is a wedding house that works around the clock, so a marriage can be registered at any time of day. Come to Batumi and enjoy its beauty."
+    ]
+  },
+  "Ships": {
+    "title": "Our ships",
+    "seoDescription": "Okyanus 3 passenger boat, a parasailing speedboat and jet skis in the port of Batumi.",
+    "lead": "A small fleet in the Batumi port: a passenger boat for groups, a parasailing boat and jet skis.",
+    "okyanus3Title": "Okyanus 3",
+    "okyanus3Body": "A two-deck passenger boat for sea walks along Batumi. Suitable for families, friends and small groups.",
+    "parasailingTitle": "Parasailing boat",
+    "parasailingBody": "A speedboat for parachute flights over the sea. You take off from the water and see the boulevard, the tower and the coastline from above.",
+    "jetskiTitle": "Jet ski",
+    "jetskiBody": "Jet skis at the pier for a short ride in the port area. Ask us which option is free when you want to go out."
   },
   "Contacts": {
     "title": "Contacts",
-    "body": "Write to us.",
-    "seoTitle": "Contacts - Okyanus",
-    "seoDescription": "Contact Okyanus.",
+    "seoDescription": "Okyanus in the port of Batumi: phone, WhatsApp, email and Facebook.",
+    "body": "Write or call if you want to book a trip or ask about the boats.",
+    "locationTitle": "Location",
+    "locationLine": "Georgia, Batumi Port",
+    "openMap": "Open map",
+    "writeTitle": "Write to us",
+    "socialTitle": "Social networks",
+    "facebook": "Facebook",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
     "formTitle": "Contact form",
     "name": "Name",
     "emailLabel": "Email",
@@ -24,8 +82,17 @@
     "success": "Thank you! Your message has been sent.",
     "error": "Could not send the message. Try again later."
   },
+  "Gallery": {
+    "title": "Gallery",
+    "okyanus3": "Passenger boat Okyanus 3 in Batumi",
+    "fleet": "Okyanus boats at the Batumi port",
+    "jetski": "Jet skis at the Okyanus pier",
+    "batumi": "Aerial view of Batumi",
+    "parasailing": "Parasailing over the Batumi boulevard",
+    "close": "Close photo"
+  },
   "Footer": {
-    "tagline": "Okyanus",
+    "tagline": "Boat trips and sea entertainment in Batumi",
     "rights": "© {year} Okyanus"
   },
   "Common": {
@@ -33,6 +100,7 @@
     "notFound": "Page not found",
     "menu": "Menu",
     "close": "Close",
-    "language": "Language"
+    "language": "Language",
+    "whatsapp": "WhatsApp"
   }
 }

@@ -3,6 +3,7 @@
 import Box from "@mui/material/Box";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
+import WhatsAppFab from "@/components/layout/WhatsAppFab";
 
 type Props = {
   children: React.ReactNode;
@@ -23,6 +24,7 @@ export default function AppShell({ children }: Props) {
         {children}
       </Box>
       <Footer />
+      <WhatsAppFab />
     </Box>
   );
 }

@@ -1,19 +1,77 @@
 {
   "Meta": {
-    "title": "Okyanus",
-    "description": "Okyanus"
+    "title": "Okyanus - Batum'da tekne turları ve deniz eğlencesi",
+    "description": "Batum'da tekne turları, parasailing ve su aktiviteleri. Telefon veya WhatsApp ile doğrudan rezervasyon."
   },
   "Nav": {
-    "home": "Ana sayfa"
+    "home": "Ana sayfa",
+    "about": "Hakkımızda",
+    "batumi": "Batum",
+    "ships": "Gemilerimiz",
+    "contacts": "İletişim"
   },
   "Home": {
-    "title": "Okyanus"
+    "kicker": "Batum limanı",
+    "title": "Tekne turları ve deniz eğlencesi",
+    "subtitle": "Bizimle unutulmaz bir macera planlayın: Batum'da deniz turları, parasailing ve su aktiviteleri.",
+    "book": "Rezervasyon",
+    "call": "Ara",
+    "servicesTitle": "Neler sunuyoruz",
+    "tripsTitle": "Deniz turları",
+    "tripsBody": "Okyanus 3 yolcu teknesiyle Batum sahili boyunca geziler.",
+    "parasailingTitle": "Parasailing",
+    "parasailingBody": "Karadeniz üzerinde, bulvar ve kent manzaralı bir paraşüt uçuşu.",
+    "jetskiTitle": "Jet ski",
+    "jetskiBody": "İskelede kısa ve hızlı bir su turu için jet skiler.",
+    "galleryTitle": "Galeri",
+    "aboutCta": "Hakkımızda"
+  },
+  "About": {
+    "title": "Hakkımızda",
+    "seoDescription": "Okyanus, Batum'da deniz eğlencesi sunar. Limandan tekne turları, parasailing ve su aktiviteleri.",
+    "lead": "Batum'da tekne turu ve diğer deniz aktiviteleriyle bizimle eğlenin.",
+    "p1": "Okyanus Batum limanından çalışır. Misafirleri denize çıkarırız: yolcu teknesiyle geziler, parasailing ve jet ski.",
+    "p2": "İletişim doğrudan. Arayın, WhatsApp'tan yazın veya siteden mesaj bırakın, size uygun turu seçmekte yardımcı olalım.",
+    "p3": "Amacımız Batum'da denize çıkmayı basit ve net kılmak, tekne ve kaptan aramadan."
+  },
+  "Batumi": {
+    "title": "Batum",
+    "seoDescription": "Batum, Acara'nın başkenti, Gürcistan'ın ana deniz limanı ve deniz tatili için bir yer.",
+    "lead": "Acara Özerk Cumhuriyeti'nin başkenti Batum, ülkenin en güzel kentlerinden biridir.",
+    "paragraphs": [
+      "Bir zamanlar antik Yunan kolonisi ve Roma limanıydı. Osmanlılar saldırdı, Gürcü krallar savundu. Rus İmparatorluğu döneminde kent büyüdü ve bugün Gürcistan'ın ana deniz limanı ve özel bir dinlenme yeridir.",
+      "Batum her yıl daha güzel olur. Son yıllarda kent özellikle hızlı gelişiyor. Hem çağa ayak uydurmaya hem tarihini korumaya çalışır. 19. yüzyıl binaları arşiv kayıtlarına göre restore edildi. Özenli işin sonucu, balkonlu zarif evler, sessiz taş sokaklar ve dökme cephelerdir. Çevrede deniz rüzgarı, kahve ve narenciye kokusu vardır.",
+      "Batum'un gelişmiş bir turizm altyapısı vardır, bu da kenti konuklar için daha çekici kılar. Sheraton, Radisson ve Hilton gibi modern oteller tasarımıyla uzaktan dikkat çeker. Gürcistan hükümeti otel sektörünü geliştirmek için dünyanın farklı yerlerinden inşaatçılar davet etti.",
+      "Bugün Batum merkezi Batı Avrupa kentine benzer: asmalı sokaklar, çeşmeler ve kalabalık dükkanlar. Gece kent aydınlanır, sahil şeridi parlar. İklim Karadeniz'e bağlıdır: en soğuk ay ocak, en sıcak ay ağustostur. Ziyaretçilerin çoğu eski Sovyet ülkelerinden gelir, ama sokaklarda İngilizce, Fransızca ve başka diller de duyulur.",
+      "Çoğalan restoran ve kafelere Gürcü mutfağını tadabilirsiniz. Moda butikleri ve bir plastik cerrahi kliniği de vardır. Görülecek yerler arasında dünyanın en uzun sahil bulvarlarından biri öne çıkar: uzunluğu yaklaşık 7 km'dir. Bisiklet kiralayıp bulvarda gezinebilir, plajı ve anıtları görebilirsiniz.",
+      "Bulvarda dönme dolap, Alfabe Kulesi, Gürcü yazı ve kültür anıtı ve başka heykeller vardır. Yerel halk Batum'a aşk kenti der ve bu temada birçok anıt vardır. En bilineni, bir kadına kırmızı kalp uzatan diz çökmüş bir erkek heykelidir.",
+      "Kentte gece gündüz açık bir evlilik dairesi vardır, evlilik günün her saatinde kaydedilebilir. Batum'a gelin ve güzelliğinin tadını çıkarın."
+    ]
+  },
+  "Ships": {
+    "title": "Gemilerimiz",
+    "seoDescription": "Batum limanında Okyanus 3 yolcu teknesi, parasailing sürat teknesi ve jet skiler.",
+    "lead": "Batum limanında küçük bir filo: gruplar için yolcu teknesi, parasailing teknesi ve jet skiler.",
+    "okyanus3Title": "Okyanus 3",
+    "okyanus3Body": "Batum boyunca deniz turları için iki katlı yolcu teknesi. Aileler, arkadaşlar ve küçük gruplar için uygundur.",
+    "parasailingTitle": "Parasailing teknesi",
+    "parasailingBody": "Deniz üzerinde paraşüt uçuşları için sürat teknesi. Sudan havalanır, bulvarı, kuleyi ve sahili yukarıdan görürsünüz.",
+    "jetskiTitle": "Jet ski",
+    "jetskiBody": "Liman çevresinde kısa bir tur için iskeledeki jet skiler. Denize çıkmak istediğinizde hangi seçeneğin boş olduğunu sorun."
   },
   "Contacts": {
     "title": "İletişim",
-    "body": "Bize yazın.",
-    "seoTitle": "İletişim - Okyanus",
-    "seoDescription": "Okyanus ile iletişime geçin.",
+    "seoDescription": "Batum limanındaki Okyanus: telefon, WhatsApp, e-posta ve Facebook.",
+    "body": "Tur rezervasyonu veya tekneler hakkında soru için yazın veya arayın.",
+    "locationTitle": "Konum",
+    "locationLine": "Gürcistan, Batum Limanı",
+    "openMap": "Haritayı aç",
+    "writeTitle": "Bize yazın",
+    "socialTitle": "Sosyal ağlar",
+    "facebook": "Facebook",
+    "call": "Ara",
+    "whatsapp": "WhatsApp",
+    "email": "E-posta",
     "formTitle": "İletişim formu",
     "name": "Ad",
     "emailLabel": "E-posta",
@@ -24,8 +82,17 @@
     "success": "Teşekkürler! Mesajınız gönderildi.",
     "error": "Mesaj gönderilemedi. Lütfen daha sonra tekrar deneyin."
   },
+  "Gallery": {
+    "title": "Galeri",
+    "okyanus3": "Batum'da yolcu teknesi Okyanus 3",
+    "fleet": "Batum limanında Okyanus tekneleri",
+    "jetski": "Okyanus iskelesinde jet skiler",
+    "batumi": "Havadan Batum",
+    "parasailing": "Batum bulvarı üzerinde parasailing",
+    "close": "Fotoğrafı kapat"
+  },
   "Footer": {
-    "tagline": "Okyanus",
+    "tagline": "Batum'da tekne turları ve deniz eğlencesi",
     "rights": "© {year} Okyanus"
   },
   "Common": {
@@ -33,6 +100,7 @@
     "notFound": "Sayfa bulunamadı",
     "menu": "Menü",
     "close": "Kapat",
-    "language": "Dil"
+    "language": "Dil",
+    "whatsapp": "WhatsApp"
   }
 }

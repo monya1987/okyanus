@@ -18,11 +18,21 @@ function entry(
   };
 }
 
+const STATIC_PATHS = ["/", "/about", "/batumi", "/ships", "/contacts"] as const;
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  return routing.locales.map((locale) =>
-    entry(locale, "/", {
-      changeFrequency: "daily",
-      priority: 1,
-    }),
-  );
+  const entries: MetadataRoute.Sitemap = [];
+
+  for (const locale of routing.locales) {
+    for (const path of STATIC_PATHS) {
+      entries.push(
+        entry(locale, path, {
+          changeFrequency: path === "/" ? "daily" : "monthly",
+          priority: path === "/" ? 1 : 0.7,
+        }),
+      );
+    }
+  }
+
+  return entries;
 }

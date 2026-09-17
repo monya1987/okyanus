@@ -173,14 +173,28 @@ export function buildFaqJsonLd(faq: { question: string; answer: string }[]) {
 export function buildOrganizationJsonLd(description: string) {
   return {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "LocalBusiness",
     name: SITE_NAME,
     description,
     url: SITE_URL,
-    logo: `${SITE_URL}/icon.png`,
+    logo: `${SITE_URL}/logo-color.png`,
+    image: `${SITE_URL}/gallery/okeanus-3.jpg`,
+    telephone: "+995593180101",
+    email: "info@okyanus.ge",
+    sameAs: ["https://www.facebook.com/Okyanusbatumi"],
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Batumi",
+      addressCountry: "GE",
+    },
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: 41.655072,
+      longitude: 41.643124,
+    },
     areaServed: {
-      "@type": "Country",
-      name: "Georgia",
+      "@type": "City",
+      name: "Batumi",
     },
   };
 }
