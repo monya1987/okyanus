@@ -1,0 +1,13 @@
+---
+description: React and Next.js App Router patterns
+globs: src/components/**/*.{ts,tsx},src/app/**/*.{ts,tsx},src/hooks/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# React / Next.js
+
+- App Router only. Pages live under `src/app/[locale]/`. Call `setRequestLocale` on each page. Keep `page.tsx` a server component when possible.
+- Use next-intl for copy (`useTranslations` / `getTranslations`) and localized strings on content (`tLocalized`).
+- Follow sibling components in the same folder. Reuse `ThemeRegistry`, `AppShell` and SEO helpers in `src/lib/seo.ts`.
+- Do not add `useMemo` / `useCallback` without a clear performance reason.
+- Name booleans with `is`, `has`, `can`, or `should`. Prefer `is` for flags.

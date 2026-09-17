@@ -1,0 +1,38 @@
+{
+  "Meta": {
+    "title": "Okyanus",
+    "description": "Okyanus"
+  },
+  "Nav": {
+    "home": "Ana sayfa"
+  },
+  "Home": {
+    "title": "Okyanus"
+  },
+  "Contacts": {
+    "title": "İletişim",
+    "body": "Bize yazın.",
+    "seoTitle": "İletişim - Okyanus",
+    "seoDescription": "Okyanus ile iletişime geçin.",
+    "formTitle": "İletişim formu",
+    "name": "Ad",
+    "emailLabel": "E-posta",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "submit": "Gönder",
+    "sending": "Gönderiliyor…",
+    "success": "Teşekkürler! Mesajınız gönderildi.",
+    "error": "Mesaj gönderilemedi. Lütfen daha sonra tekrar deneyin."
+  },
+  "Footer": {
+    "tagline": "Okyanus",
+    "rights": "© {year} Okyanus"
+  },
+  "Common": {
+    "loading": "Yükleniyor…",
+    "notFound": "Sayfa bulunamadı",
+    "menu": "Menü",
+    "close": "Kapat",
+    "language": "Dil"
+  }
+}

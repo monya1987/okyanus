@@ -1,0 +1,14 @@
+---
+description: Implement UI from Figma designs
+globs: src/components/**/*.{ts,tsx},src/app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# Figma → code
+
+- When the user shares a Figma URL, parse `file key` and `node-id` (`12386:2` when the URL has `node-id=12386-2`).
+- If Figma MCP is configured, fetch layout, typography, colors, and spacing before implementing.
+- Map colors, spacing, and typography to MUI theme tokens. Avoid hardcoded values that already exist on the theme.
+- Reuse components in the same feature folder before creating new ones. Match naming to siblings.
+- Icons: `@mui/icons-material`, not Phosphor or inline SVGs (except a custom logo).
+- If Figma MCP is unavailable, ask for a frame screenshot and Dev Mode specs instead of guessing.

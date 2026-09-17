@@ -1,0 +1,38 @@
+{
+  "Meta": {
+    "title": "Okyanus",
+    "description": "Okyanus"
+  },
+  "Nav": {
+    "home": "Главная"
+  },
+  "Home": {
+    "title": "Okyanus"
+  },
+  "Contacts": {
+    "title": "Контакты",
+    "body": "Напишите нам.",
+    "seoTitle": "Контакты - Okyanus",
+    "seoDescription": "Свяжитесь с Okyanus.",
+    "formTitle": "Форма обратной связи",
+    "name": "Имя",
+    "emailLabel": "Email",
+    "phone": "Телефон",
+    "message": "Сообщение",
+    "submit": "Отправить",
+    "sending": "Отправка…",
+    "success": "Спасибо! Сообщение отправлено.",
+    "error": "Не удалось отправить сообщение. Попробуйте позже."
+  },
+  "Footer": {
+    "tagline": "Okyanus",
+    "rights": "© {year} Okyanus"
+  },
+  "Common": {
+    "loading": "Загрузка…",
+    "notFound": "Страница не найдена",
+    "menu": "Меню",
+    "close": "Закрыть",
+    "language": "Язык"
+  }
+}

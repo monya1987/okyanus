@@ -1,0 +1,14 @@
+---
+description: MUI sx styling and theme tokens
+globs: src/components/**/*.{ts,tsx},src/app/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# Styling
+
+- Style with MUI `sx` and theme tokens (`palette`, `typography`, `breakpoints`, `shape`). Prefer `primary`, `secondary`, `sea`, `sand` over one-off hex.
+- Theme lives in `src/theme/theme.ts` (`cssVariables: true`). Wrap the tree with `ThemeRegistry`.
+- Do not add Tailwind, CSS Modules, or a second styling library.
+- Use `@mui/icons-material` for UI icons. Do not add Phosphor or other icon packs unless asked.
+- `button.textTransform` is already `"none"` on the theme — do not override it back to uppercase.
+- Accept optional `sx?: SxProps<Theme>` on reusable components that parents may need to override.

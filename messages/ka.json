@@ -1,0 +1,38 @@
+{
+  "Meta": {
+    "title": "Okyanus",
+    "description": "Okyanus"
+  },
+  "Nav": {
+    "home": "მთავარი"
+  },
+  "Home": {
+    "title": "Okyanus"
+  },
+  "Contacts": {
+    "title": "კონტაქტები",
+    "body": "მოგვწერეთ.",
+    "seoTitle": "კონტაქტები - Okyanus",
+    "seoDescription": "დაგვიკავშირდით Okyanus-ზე.",
+    "formTitle": "საკონტაქტო ფორმა",
+    "name": "სახელი",
+    "emailLabel": "ელფოსტა",
+    "phone": "ტელეფონი",
+    "message": "შეტყობინება",
+    "submit": "გაგზავნა",
+    "sending": "იგზავნება…",
+    "success": "გმადლობთ! შეტყობინება გაიგზავნა.",
+    "error": "შეტყობინების გაგზავნა ვერ მოხერხდა. სცადეთ მოგვიანებით."
+  },
+  "Footer": {
+    "tagline": "Okyanus",
+    "rights": "© {year} Okyanus"
+  },
+  "Common": {
+    "loading": "იტვირთება…",
+    "notFound": "გვერდი ვერ მოიძებნა",
+    "menu": "მენიუ",
+    "close": "დახურვა",
+    "language": "ენა"
+  }
+}

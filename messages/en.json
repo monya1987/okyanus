@@ -1,0 +1,38 @@
+{
+  "Meta": {
+    "title": "Okyanus",
+    "description": "Okyanus"
+  },
+  "Nav": {
+    "home": "Home"
+  },
+  "Home": {
+    "title": "Okyanus"
+  },
+  "Contacts": {
+    "title": "Contacts",
+    "body": "Write to us.",
+    "seoTitle": "Contacts - Okyanus",
+    "seoDescription": "Contact Okyanus.",
+    "formTitle": "Contact form",
+    "name": "Name",
+    "emailLabel": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending…",
+    "success": "Thank you! Your message has been sent.",
+    "error": "Could not send the message. Try again later."
+  },
+  "Footer": {
+    "tagline": "Okyanus",
+    "rights": "© {year} Okyanus"
+  },
+  "Common": {
+    "loading": "Loading…",
+    "notFound": "Page not found",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language"
+  }
+}

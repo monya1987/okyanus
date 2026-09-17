@@ -1,0 +1,15 @@
+---
+description: Okyanus — stack, commands, product constraints
+alwaysApply: true
+---
+
+# Project
+
+- Next.js 16 App Router, TypeScript, MUI 9, next-intl, OpenNext/Cloudflare Workers.
+- Package manager: **npm** (not yarn/pnpm).
+- Product: `main.md`.
+- Locales: `en` (default, no prefix), `ru`, `ka`, `tr`. Use `@/i18n/navigation` (`Link`, `useRouter`, `usePathname`), never `next/link` for in-app routes.
+- Content is typed JSON + `messages/*.json`. Do not add Mongo/mongoose, GraphQL, or a CMS unless asked.
+- Hosting is OpenNext + Wrangler. Do not add Vercel-only APIs or `@cloudflare/next-on-pages`. Nodemailer/SMTP may fail on Workers; keep HTTP Telegram as-is.
+- Imports: `@/*` → `src/*`. Never commit secrets (`.env*`, `.dev.vars` with credentials).
+- Keep changes scoped to the task. Reply in the user's language. Do not add code comments unless the user asks.
